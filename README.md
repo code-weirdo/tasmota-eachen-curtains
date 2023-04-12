@@ -20,4 +20,4 @@ The following documentation details how to compile a custom Tasmota image with t
 
 - [Reverse engineering the curtain motor](docs/reverse-engineering.md)
 - [Compiling Tasmota](docs/compiling-tasmota.md)
-- [Flashing Tasmota onto the curtain motor](docs/compiling-tasmota.md)
+- [Flashing Tasmota onto the curtain motor](docs/flashing.md)
