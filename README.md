@@ -12,7 +12,7 @@ The driver is loosly based on the PS16DZ driver in the Tasmota code base, which 
 
 As with any electronic device that connects to mains power, there is a danger of electrocution if safety precautions are not followed and if you don't know what you're doing, please don't attempt this at home.
 
-I take responsibility or liability for using the software or the instructions, tips, advice, etc. provided here!
+I take no responsibility or liability for using the software or the instructions, tips, advice, etc. provided here!
 
 # docs
 
